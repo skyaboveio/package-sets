@@ -3721,5 +3721,20 @@
     ],
     "repo": "https://github.com/paf31/purescript-yargs.git",
     "version": "v4.0.0"
-  }
+  },
+  "node-readline-aff": {
+    "dependencies": [
+    "prelude"
+    ,"console"
+    ,"psci-support"
+    ,"node-readline"
+    ,"aff"
+    ,"node-streams"
+    ,"options"
+    ,"exceptions"
+    ,"either"
+    ],
+    "repo": "https://github.com/ChrisPenner/purescript-node-readline-aff.git",
+    "version": "v0.3.0"
+  },
 }
